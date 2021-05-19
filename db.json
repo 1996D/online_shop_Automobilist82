@@ -1,0 +1,60 @@
+{
+  "products": [
+    {
+      "image": "1.jpg",
+      "name": "Замок зажигания + личинка Sandero/Logan/Daster с автозапуском",
+      "price": 2100.234234234,
+      "article": "806015052R",
+      "available": true,
+      "category": "Renault"
+    },
+    {
+      "image": "2.jpg",
+      "name": "Колодки перед Daster/Fluence/Megan c 2009 HSB HP3009",
+      "price": 3150.12312412,
+      "article": "410607115R",
+      "available": true,
+      "category": "Renault"
+    },
+    {
+      "image": "3.jpg",
+      "name": "Комбинация приборов Largus чёрная отделка",
+      "price": 4200.51524,
+      "article": "248100931R",
+      "available": false,
+      "category": "Lada"
+    },
+    {
+      "image": "4.jpg",
+      "name": "Наконечник рулевой Largus/Xray левый",
+      "price": 5300.1245512,
+      "article": "6001547610",
+      "available": true,
+      "category": "Lada"
+    },
+    {
+      "image": "5.jpg",
+      "name": "Насос водяной Daster2.0/Laguna/Scenic ",
+      "price": 6500.3522314,
+      "article": "7701472182",
+      "available": true,
+      "category": "Renault"
+    },
+    {
+      "image": "6.jpg",
+      "name": "Топливный насос VESTA",
+      "price": 8700.4124123,
+      "article": "81B04480",
+      "available": true,
+      "category": "Lada"
+    },
+    {
+      "image": "7.jpg",
+      "name": "Опора шаровая левая VESTA оригинал",
+      "price": 3700.4124123,
+      "article": "8450006741",
+      "available": true,
+      "category": "Lada"
+    }
+  ]
+}
